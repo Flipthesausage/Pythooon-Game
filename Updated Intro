@@ -1,0 +1,5 @@
+import random
+
+print("Yes, it's me. That voice in your head. My name is Buscemi, Steve Buscemi and I'm here to guide you through this here dungeon.")
+print("To begin, select your weapon.")
+
