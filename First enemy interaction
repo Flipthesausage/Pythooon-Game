@@ -1,0 +1,11 @@
+print("Hey! You're not suppossed to be in here! Who let you in?")
+print("1: Chad, 2: James, 3: Scott, 4: Your Mother")
+answer = input()
+  if answer == 1:
+    print("That little sneak! I'll poison his potato I will!")
+  if answer == 2:
+    print("That little sneak! I'll poison his potato I will!")
+  if answer == 3:
+    print("That little sneak! I'll poison his potato I will!")
+  if answer == 4:
+    print("What? How dare you! My mother is a saint! I'll kill you!")
