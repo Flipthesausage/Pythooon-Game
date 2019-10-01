@@ -11,13 +11,24 @@ answer = input()
     print("What? How dare you! My mother is a saint! I'll kill you!")
 print("hm...")
 print("Actually, I don't really feel like fighting. I'm too sad.")
-print("1: Why? , 2: I don't care , 3:  , 4:  ")
+print("1: Why? , 2: I don't care , 3: I'm so sorry , 4: *stabs* ")
 answer = input()
   if answer == 1:
-    print("")
+    print("Mm. I don't know. I've been really getting picked on lately.")
   if answer == 2:
-    print("")
+    print("Hey! That's not very nice! *cries*")
   if answer == 3:
-    print("")
+    print("Thanks for the support, it means the world right now. Say, you don't seem so bad.")
   if answer == 4:
-    print("")
+    print("Ow! You turd! That scratched my arm! Stop that!")
+print("Anyways, im gonna go sit down. Be careful if you go in there, theres a bunch of dudes ready to get violent with ya.")
+print("1: Well, I think I can handle them. , 2: Hey, thanks for the heads up. , 3: Hey, I'm not done with you yet! , 4: Wanna join my quest? ")
+answer = input()
+  if answer == 1:
+    print("Mh, I don't know. You might need a guide.")
+  if answer == 2:
+    print("Yea man, no problem. Hey, uh... you mind if I come with? I don't have anything better to do.")
+  if answer == 3:
+    print("Please sir, I'll be your humble servant if you just let me live.")
+  if answer == 4:
+    print("I was hoping you would ask that! Yes!")
