@@ -9,3 +9,15 @@ answer = input()
     print("That little sneak! I'll poison his potato I will!")
   if answer == 4:
     print("What? How dare you! My mother is a saint! I'll kill you!")
+print("hm...")
+print("Actually, I don't really feel like fighting. I'm too sad.")
+print("1: Why? , 2: I don't care , 3:  , 4:  ")
+answer = input()
+  if answer == 1:
+    print("")
+  if answer == 2:
+    print("")
+  if answer == 3:
+    print("")
+  if answer == 4:
+    print("")
